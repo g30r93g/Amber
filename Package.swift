@@ -28,5 +28,4 @@ let package = Package(
             name: "Amber",
             dependencies: ["Alamofire"]),
     ],
-    swiftLanguageVersions: [.v5],
-)
+    swiftLanguageVersions: [.v5])
